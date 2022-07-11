@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjoh661
-- 👀 I’m interested in path-finding algorithms
+- 👀 I’m interested in dynamic programming
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @jjoh661@lsu.edu
